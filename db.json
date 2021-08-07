@@ -1,0 +1,144 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "alif",
+          "alamat": "jakarta",
+          "umur": 22,
+          "no_telp": "0812345678555"
+        },
+        {
+          "id": 2,
+          "nama": "budi",
+          "alamat": "surabaya",
+          "umur": 23,
+          "no_telp": "081234567899"
+        },
+        {
+          "id": 3,
+          "nama": "caca",
+          "alamat": "sumedang",
+          "umur": 22,
+          "no_telp": "091818182718"
+        },
+        {
+          "id": 4,
+          "nama": "dhika",
+          "alamat": "bantul",
+          "umur": 27,
+          "no_telp": "0919192819"
+        },
+        {
+          "id": 5,
+          "nama": "ely",
+          "alamat": "jakarta",
+          "umur": 19,
+          "no_telp": "91910279273"
+        },
+        {
+          "id": 6,
+          "nama": "farah",
+          "alamat": "padang",
+          "umur": 20,
+          "no_telp": "08198765431"
+        },
+        {
+          "id": 7,
+          "nama": "sarah",
+          "alamat": "bali",
+          "umur": 25,
+          "no_telp": "0811987654"
+        },
+        {
+          "id": 8,
+          "nama": "vier",
+          "alamat": "lampung",
+          "umur": 18,
+          "no_telp": "081587158282"
+        },
+        {
+          "id": 9,
+          "nama": "lucas",
+          "alamat": "bali",
+          "umur": 21,
+          "no_telp": "0818765182"
+        },
+        {
+          "id": 10,
+          "nama": "zizi",
+          "alamat": "jakarta",
+          "umur": 22,
+          "no_telp": "081912819379"
+        },
+        {
+          "id": 11,
+          "nama": "dinda",
+          "alamat": "bandung",
+          "umur": 24,
+          "no_telp": "0812456783"
+        },
+        {
+          "id": 12,
+          "nama": "risa",
+          "alamat": "medan",
+          "umur": 21,
+          "no_telp": "08192817482912"
+        },
+        {
+          "id": 13,
+          "nama": "dery",
+          "alamat": "bengkulu",
+          "umur": 22,
+          "no_telp": "08968182718"
+        },
+        {
+          "id": 14,
+          "nama": "ruli",
+          "alamat": "mojokerto",
+          "umur": 29,
+          "no_telp": "081919912872"
+        },
+        {
+          "id": 15,
+          "nama": "annisa",
+          "alamat": "jakarta",
+          "umur": 21,
+          "no_telp": "08179109100"
+        },
+        {
+          "id": 16,
+          "nama": "effren",
+          "alamat": "purwokerto",
+          "umur": 27,
+          "no_telp": "081981781723"
+        },
+        {
+          "id": 17,
+          "nama": "abdul",
+          "alamat": "bali",
+          "umur": 25,
+          "no_telp": "081589108910"
+        },
+        {
+          "id": 18,
+          "nama": "sonya",
+          "alamat": "ambon",
+          "umur": 19,
+          "no_telp": "0817819291028"
+        },
+        {
+          "id": 19,
+          "nama": "rina",
+          "alamat": "palembang",
+          "umur": 21,
+          "no_telp": "0815191912020"
+        },
+        {
+          "id": 20,
+          "nama": "yosi",
+          "alamat": "bandung",
+          "umur": 22,
+          "no_telp": "0818818098981"
+        }
+      ]
+}
